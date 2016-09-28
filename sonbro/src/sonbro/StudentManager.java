@@ -1,5 +1,5 @@
 //Main ( 학생 관리 프로그램 )
-package com.tgnco.admin;
+package sonbro;
 
 import java.io.BufferedReader;
 import java.io.IOException;
